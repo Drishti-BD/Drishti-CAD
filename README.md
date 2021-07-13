@@ -1,4 +1,4 @@
-# [Drishti Retinal Camera System](https://drishtiai.org/)
+# [Drishti Retinal Camera System](https://drishtiai.org/docs.html)
 
 CAD Files and Implementation Drishti's Retinal Camera System Prototype
 
