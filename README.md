@@ -6,7 +6,7 @@ This on-the-go system was designed for clinics to be able to travel and test pat
 
 ## CAD Design
 
-All the CAD files are provided in ```.STL``` file types. They can be interactively viewed within Github by clicking the files. To view the final assembled CAD model, view [```Assembly.STL```](https://github.com/ayaanzhaque/Drishti-CAD/blob/main/Assembly.STL).
+All the CAD files were designed in SOLIDWORKS and are provided both as ```.sldpt``` files and as ```.STL``` file types, which are viewable directly in github using the embedded 3D model viewer. To view the final assembled CAD model, view [```Assembly.STL```](https://github.com/ayaanzhaque/Drishti-CAD/blob/main/Assembly.STL). For specifics on which components to purchase, and which to 3D print, refer to the Assembly section.
 
 ## Assembly
 
