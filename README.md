@@ -1,7 +1,8 @@
-# [Drishti Retinal Camera System](https://drishtiai.org/)
+# Drishti-CAD
 CAD Files for Drishti's Retinal Camera System Prototype
 
-## Prototyping
+## Concept
+This on-the-go system was designed for clinics to be able to travel and test patients for __. We designed this system to be completely collapsable, such that it can fit into a standard size backpack. The basic purpose of this rig is to allow precise positioning of the __ (phone camera system) to any person's left and right eye such that the images can be efficiently fed into (our AI algorithm etc etc.) for _ diagnosis. The system is completely adjustable for all head sizes. Additionally, it is made of readily available components that can be purchased at many local hardware stores, and is designed for low-cost fabrication. All aseembly tools are common household tools or easily purchasable/rentable from a local hardware store. 
 
 ## CAD Design
 
