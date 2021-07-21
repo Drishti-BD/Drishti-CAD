@@ -16,6 +16,8 @@ All the CAD files were designed in SOLIDWORKS and are provided both as [```.sldp
 
 ## Assembly
 
+Use the [```drishti_build_docs.pdf```](https://drive.google.com/file/d/1a8JFyQoVU5_NAgstF9vPS_4r04IjrmUe/view?usp=sharing) documentation file for instructions on how to build the retinal camera system. Please contact if file cannot be accessed.
+
 ## Acknowledgement
 
 This project was done in collaboration with Sajiv Shah. He assisted in the development and design of the CAD parts and 3D-printed the materials. He also helped to assemble the first prototype and write the instructional document.
