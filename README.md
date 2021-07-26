@@ -3,7 +3,7 @@
 CAD Files and Implementation Drishti's Retinal Camera System Prototype
 
 <p align = "center">
-  <script src="https://embed.github.com/view/3d/ayaanzhaque/Drishti-CAD/blob/main/Assembly.STL"></script>
+  <script src="https://embed.github.com/view/3d/ayaanzhaque/Drishti-CAD/blob/main/Assembly.stl"></script>
 </p>
 
 ## Concept
