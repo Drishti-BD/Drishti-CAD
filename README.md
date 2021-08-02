@@ -2,6 +2,14 @@
 
 CAD Files and Implementation Drishti's Retinal Camera System Prototype
 
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=1zDsNmXHbFA">
+        <img src="https://img.youtube.com/vi/1zDsNmXHbFA/0.jpg" alt="Thumbnail"/>
+        <br />
+        Instructional Demo
+    </a>
+</p>
+
 ## Concept
 This mobile, on-the-go system is designed for clinics in Bangladesh to screen patients for Diabetic Retinopathy (DR) using a smartphone camera with a retinal attachment. The basic of this rig is to allow precise positioning of the smartphone to any patient's left and right eye such that the images can be efficiently fed into Drishti's AI algorithms for DR diagnosis. The system is completely adjustable for all head sizes. Additionally, it is made of readily available components that can be purchased at many local hardware stores, and is designed for low-cost fabrication. All aseembly tools are common household tools or easily purchasable/rentable from a local hardware store. The 3D-printed components can be printed on low-end machines and with low-cost PLA filament. We designed this system to be completely collapsable, such that it can fit into a standard size backpack.
 
