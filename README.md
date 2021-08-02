@@ -24,6 +24,14 @@ All the CAD files were designed in SOLIDWORKS and are provided both as [```.sldp
 
 ## Assembly
 
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=K8nVQCHWzno">
+        <img src="https://img.youtube.com/vi/K8nVQCHWzno/0.jpg" alt="Thumbnail"/>
+        <br />
+        Assembly Guide
+    </a>
+</p>
+
 Use the [```drishti_build_docs.pdf```](https://drive.google.com/file/d/1a8JFyQoVU5_NAgstF9vPS_4r04IjrmUe/view?usp=sharing) documentation file for instructions on how to build the retinal camera system. Please contact if file cannot be accessed.
 
 ## Acknowledgement
