@@ -20,6 +20,10 @@ Our initial prototype drawings and designs are shown below.
   
 ## CAD Design
 
+<p align = "center">
+  <img src="https://github.com/Drishti-BD/Drishti-CAD/blob/main/docs/assembly.JPG" width = "50%" alt="Thumbnail"/>
+</p>
+
 All the CAD files were designed in SOLIDWORKS and are provided both as [```.sldprt```](https://github.com/ayaanzhaque/Drishti-CAD/tree/main/sldprt) files and as ```.STL``` file types, which are viewable directly in github using the embedded 3D model viewer. To view the final assembled CAD model, view [```Assembly.STL```](https://github.com/ayaanzhaque/Drishti-CAD/blob/main/Assembly.STL). For specifics on which components to purchase, and which to 3D print, refer to the Assembly section.
 
 ## Assembly
